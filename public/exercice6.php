@@ -1,0 +1,11 @@
+<?php 
+
+// Exercice 6
+// Avec le formulaire de l'exercice 5, Si des données sont passées en POST ou en GET, 
+// le formulaire ne doit pas être affiché. Par contre les données transmises doivent l'être. Dans le cas contraire, c'est l'inverse.
+// Utiliser qu'une seule page.
+
+
+?>
+
+
